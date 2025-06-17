@@ -1,0 +1,19 @@
+Comprehensive Analysis of 2023 Observations
+========================================
+
+Basic Statistics:
+Total JWST Observations: 193401
+Total HST Observations: 21924
+JWST Unique Targets: 1815
+HST Unique Targets: 2153
+
+Target Distribution:
+JWST-only targets: 1760
+HST-only targets: 2098
+Common targets: 55
+
+Exposure Time Statistics:
+JWST median exposure: 1604.78 seconds
+HST median exposure: 82.02 seconds
+JWST max exposure: 210080.01 seconds
+HST max exposure: 196512.00 seconds

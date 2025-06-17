@@ -1,0 +1,36 @@
+JWST vs HST 2023 Observation Analysis
+====================================
+
+JWST 2023 Statistics:
+Total Observations: 193401
+Unique Targets: 1815
+Average Exposure Time: 3645.35 seconds
+
+Top 5 JWST Targets:
+- 1181-MERGED-APT-CLEAN-CLEAN: 16678 observations
+- UNKNOWN: 13984 observations
+- MACSJ1423.8+2404: 7641 observations
+- 21_3_23_mediumjwst_trim_ta5: 7534 observations
+- A2744: 5624 observations
+
+HST 2023 Statistics:
+Total Observations: 21924
+Unique Targets: 2153
+Average Exposure Time: 823.18 seconds
+
+Top 5 HST Targets:
+- DARK: 4678 observations
+- BIAS: 1860 observations
+- TUNGSTEN: 1004 observations
+- ANY: 781 observations
+- DARK-NM: 506 observations
+
+
+Common Targets in 2023: 55
+
+Most observed common targets:
+V-AA-TAU: JWST=14, HST=3
+TGSSJ1530+1049: JWST=4, HST=2
+P330E: JWST=7, HST=102
+NGC6946-BH1: JWST=3, HST=2
+GSC-08152-02121: JWST=13, HST=10
